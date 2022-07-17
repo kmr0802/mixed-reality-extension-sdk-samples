@@ -1,0 +1,10 @@
+{
+	"typescript.tsdk": "node_modules\\typescript\\lib",
+	"appService.defaultWebAppToDeploy": "/subscriptions/e9310b88-14d2-4ae7-ba23-bf45e15f043b/microsoft.web/sites/subscriptions/e9310b88-14d2-4ae7-ba23-bf45e15f043b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/altspacevr-test",
+	"appService.deploySubpath": "",
+	"cSpell.words": [
+		"altspace",
+		"altspacevr",
+		"gltf"
+	]
+}
